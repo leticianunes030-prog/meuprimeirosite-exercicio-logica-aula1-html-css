@@ -1,4 +1,4 @@
-# meuprimeirosite-exercicio-logica-aula1-html-css
+# meuprimeirosite-exercicio-logica 
 Exercicio de lógica
 
 Obejtivo : È um jogo de lógica de programação oobejtiovo é levar o boneco até destjno dele , onde mostra no mapa .
